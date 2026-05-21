@@ -90,6 +90,3 @@ jupyter notebook
 - Some destinations are regions rather than countries, so destination-level interpretation should be handled carefully.
 - The analysis identifies likely causes, but final root-cause confirmation would require additional product, marketing, and technical data.
 
-## Notes on reviewed version
-
-The reviewed notebook contains `[UPDATE]` markers in places where edits or additions were made. These markers are useful for review. Before final submission, they can be removed if a cleaner version is preferred.
